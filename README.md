@@ -6,6 +6,7 @@ Repository for capstone project for IBM professional certificate in data science
 
 coursera course title: 'Machine Learning with Python'
 https://www.coursera.org/learn/machine-learning-with-python/home/info
+
 Original code created by Saeed Aghabozorgi: https://www.linkedin.com/in/saeedaghabozorgi/
 
 ### Table of contents:
@@ -21,6 +22,7 @@ Original code created by Saeed Aghabozorgi: https://www.linkedin.com/in/saeedagh
 coursera course title: 'Applied Data Science Capstone'
 This is the peer reviewed assignment for week 3 of the Capstone project
 https://www.coursera.org/learn/applied-data-science-capstone/home/info
+
 Original code created by Alex Aklson: https://www.linkedin.com/in/aklson/
 
 ### Table of contents:
